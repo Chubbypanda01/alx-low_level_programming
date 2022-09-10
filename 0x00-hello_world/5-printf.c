@@ -1,10 +1,13 @@
 #include <stdio.h>
+
 /**
- * Description: main - prints out a string to stdout.
- * Return: 0 if success.
+ * main - Function starts
+ *
+ * Return: Function closes
  */
-int main (void)
+
+int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art.\n");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
