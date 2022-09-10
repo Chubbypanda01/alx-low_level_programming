@@ -1,13 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Function starts
- *
- * Return: Function closes
+ * main - the containing func
+ * Return: 0 if successful
  */
-
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	printf("with proper grammar, but the outcome is a piece of art, \n");
 	return (0);
 }
