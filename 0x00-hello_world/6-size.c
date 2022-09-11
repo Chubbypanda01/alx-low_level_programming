@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - the containing func
+ * main - The containing func
  * Return: 0 if no error
  */
 int main(void)
