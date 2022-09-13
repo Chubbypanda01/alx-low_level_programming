@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- g*main - Entry point
+ *main - Entry point
  *
  *Return: 0 nothing, return void
  */
@@ -9,7 +9,7 @@
 int main(void)
 
 {
-	_puchar('_');
+	_putchar('_');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
