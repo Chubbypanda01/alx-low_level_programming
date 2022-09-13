@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *main - Entry point
+ g*main - Entry point
  *
  *Return: 0 nothing, return void
  */
