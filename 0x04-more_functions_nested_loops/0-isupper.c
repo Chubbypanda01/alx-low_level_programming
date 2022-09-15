@@ -2,19 +2,16 @@
 #include <stdio.h>
 
 /**
- * _isupper - check uppercase
- * @c: parameter
- * Return: 0 if successful
+ * _isupper - checks uppercase
+ * @c: checks imput function
+ *
+ * Return: returns1 if 'c' is uppercase
+ * otherwise always 0 (success)
  */
 
 int _isupper(int c)
 {
-	if (c >= 65 && c < 91)
-	{
+	if (c >= 65 && c <= 90)
 		return (1);
-	}
-	else
-	{
 		return (0);
-	}
 }
