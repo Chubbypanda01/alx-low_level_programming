@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print rev - prints a string in reverse
- * @s: the used string reference pointer
- * Return: 0
+ * print rev - prints a string in reverse, followed by a new line
+ * @s: pointer to the string to print
+ * Return: void
  */
 
 void print_rev(char *s)
