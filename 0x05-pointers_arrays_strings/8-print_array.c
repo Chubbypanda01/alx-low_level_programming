@@ -1,9 +1,9 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * print_array - prints n digit of an array
- * @: number of values
+ * @a: array
+ * @n: number of values
  * Return: a and n inputs
  */
 void print_array(int *a, int n)
