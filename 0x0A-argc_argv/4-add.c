@@ -4,7 +4,7 @@
 /**
  * main - adds positive numbers.
  * @argc: number of command line arguments.
- * @argv: array that contains the program command lines.
+ * @argv: array that contains the program command line arguments.
  * Return: 0 - success.
  */
 int main(int argc, char *argv[])
@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
 		{
 			if (!isdigit(argv[i][j]))
 			{
-				ptintf("Error\n");
+				printf("Error\n");
 				return (1);
 			}
 		}
